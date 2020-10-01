@@ -1,2 +1,2 @@
 # Projects
-Worked during degree program
+Bachelor's Degree Project - PCB Design
